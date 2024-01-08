@@ -18,8 +18,8 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="178dp"
-        android:layout_height="141dp"
+        android:layout_width="193dp"
+        android:layout_height="126dp"
         android:onClick="change"
         android:text="Click Me"
         app:layout_constraintBottom_toBottomOf="parent"
