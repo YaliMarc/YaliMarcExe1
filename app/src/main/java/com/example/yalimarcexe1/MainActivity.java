@@ -20,6 +20,4 @@ public class MainActivity extends AppCompatActivity {
     {
         bt.setText("Oh, yea, I’ve been clicked!");
     }
-
-
 }
